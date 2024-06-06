@@ -1,16 +1,13 @@
-
----
+# Practice DevOps Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-## DevOps
-
 The DevOps learning path involves mastering key technologies such as Linux, Docker, Git, Ansible, Kubernetes, and Jenkins. Understanding Linux fundamentals provides a strong foundation, while Docker enables containerization for scalable deployments. Git facilitates version control for collaborative development. Ansible automates configuration management, Kubernetes manages container orchestration, and Jenkins automates CI/CD pipelines. Continuous learning and hands-on practice with these tools are essential for mastering DevOps principles and practices.
 
-|   Index | Name                                              | Level   | Project Link                                                                                           |
-|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                            |
+|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
 |      01 | Build a Linux System Monitor Using Bash           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
 |      02 | Build a Task Scheduler Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
 |      03 | Build an VSCode Extension With ChatGPT            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt)            |
@@ -44,8 +41,9 @@ The DevOps learning path involves mastering key technologies such as Linux, Dock
 |      31 | Searching for Specific Files                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-searching-for-specific-files)                      |
 |      32 | Samba File Sharing on Linux                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-service-management)                                |
 
-### More
+## More
 
-- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#devops)
 - 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
