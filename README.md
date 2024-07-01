@@ -6,8 +6,8 @@
 
 The DevOps learning path involves mastering key technologies such as Linux, Docker, Git, Ansible, Kubernetes, and Jenkins. Understanding Linux fundamentals provides a strong foundation, while Docker enables containerization for scalable deployments. Git facilitates version control for collaborative development. Ansible automates configuration management, Kubernetes manages container orchestration, and Jenkins automates CI/CD pipelines. Continuous learning and hands-on practice with these tools are essential for mastering DevOps principles and practices.
 
-|   Index | Name                                              | Level   | Project Link                                                                                            |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Build a Linux System Monitor Using Bash           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
 |      02 | Build a Task Scheduler Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
 |      03 | Build an VSCode Extension With ChatGPT            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt)            |
