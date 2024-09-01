@@ -39,7 +39,7 @@ The DevOps learning path involves mastering key technologies such as Linux, Dock
 |      29 | [Random Password Generator Development](https://labex.io/courses/project-password-generator)                                            | ★☆☆     | [🚀 Start](https://labex.io/courses/project-password-generator)                                |
 |      30 | [Restore Access to Website](https://labex.io/courses/project-restore-access-to-website)                                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-restore-access-to-website)                         |
 |      31 | [Searching for Specific Files](https://labex.io/courses/project-searching-for-specific-files)                                           | ★☆☆     | [🚀 Start](https://labex.io/courses/project-searching-for-specific-files)                      |
-|      32 | [Samba File Sharing on Linux](https://labex.io/courses/project-service-management)                                                      | ★☆☆     | [🚀 Start](https://labex.io/courses/project-service-management)                                |
+|      32 | [Samba File Sharing on Linux](https://labex.io/courses/project-samba-file-sharing-on-linux)                                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-samba-file-sharing-on-linux)                       |
 
 ## More Projects
 
