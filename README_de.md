@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-DevOps revolutioniert die Softwareentwicklung und IT-Betrieb. Dieser Skill Tree bietet einen strukturierten Lernpfad, um DevOps-Praktiken und -Tools zu meistern. Er ist ideal für Anfänger und bietet einen systematischen Ansatz, um kontinuierliche Integration, Lieferung und Bereitstellung zu verstehen. Praktische Kurse und Übungen in realen Umgebungen helfen Ihnen, praktische Fähigkeiten für professionelle Anwendungen zu entwickeln.
+Lernen Sie DevOps mit einem strukturierten Lernpfad, der für Anfänger entwickelt wurde, um moderne Praktiken und Tools zu beherrschen. Diese Roadmap bietet einen systematischen Weg, um Continuous Integration, Delivery und Deployment zu verstehen. Die enthaltenen praktischen DevOps-Kurse und realen Übungen helfen dabei, praktische Fähigkeiten für die professionelle Softwareentwicklung und den IT-Betrieb zu entwickeln.
 
 ## Übungen
 
@@ -45,7 +45,6 @@ DevOps revolutioniert die Softwareentwicklung und IT-Betrieb. Dieser Skill Tree 
 |      29 | [Entwicklung eines Zufallspasswort-Generators](https://labex.io/de/courses/project-password-generator)                                                             | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-password-generator)                                |
 |      30 | [Zugang zu einer Website wiederherstellen](https://labex.io/de/courses/project-restore-access-to-website)                                                          | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-restore-access-to-website)                         |
 |      31 | [Suchen nach bestimmten Dateien](https://labex.io/de/courses/project-searching-for-specific-files)                                                                 | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-searching-for-specific-files)                      |
-|      32 | [Samba File Sharing on Linux](https://labex.io/de/courses/project-samba-file-sharing-on-linux)                                                                     | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-samba-file-sharing-on-linux)                       |
 
 ## Mehr
 
