@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-DevOps はソフトウェア開発と IT 運用を革新しています。このスキルツリーは、DevOps の実践とツールを習得するための体系的な学習パスを提供します。初心者に最適で、継続的インテグレーション、デリバリー、デプロイメントを理解するための体系的な方法を提供します。実践的なコースと実世界の演習を通じて、プロフェッショナルな環境で必要なスキルを身につけることができます。
+初心者向けに設計された体系的な学習パスで DevOps を習得し、最新のプラクティスとツールをマスターしましょう。このロードマップは、継続的インテグレーション、デリバリー、デプロイメントを理解するための体系的な方法を提供します。実践的な DevOps コースと現実世界の演習が含まれており、プロのソフトウェア開発と IT 運用に必要な実践的なスキルを養います。
 
 ## 演習
 
@@ -45,7 +45,6 @@ DevOps はソフトウェア開発と IT 運用を革新しています。この
 |             29 | [ランダムパスワード生成器の開発](https://labex.io/ja/courses/project-password-generator)                                                          | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-password-generator)                                |
 |             30 | [ウェブサイトへのアクセスを復旧する](https://labex.io/ja/courses/project-restore-access-to-website)                                               | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-restore-access-to-website)                         |
 |             31 | [特定のファイルを検索する](https://labex.io/ja/courses/project-searching-for-specific-files)                                                      | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-searching-for-specific-files)                      |
-|             32 | [Samba File Sharing on Linux](https://labex.io/ja/courses/project-samba-file-sharing-on-linux)                                                    | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-samba-file-sharing-on-linux)                       |
 
 ## その他
 
