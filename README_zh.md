@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-DevOps 正在彻底改变软件开发和 IT 运营模式。这个技能树为掌握 DevOps 实践和工具提供了一个结构化的学习路径。它非常适合初学者，能让你系统地理解持续集成、持续交付和持续部署。实践课程和真实场景的实验练习有助于你培养在专业环境中所需的实践技能。
+通过为初学者设计的结构化学习路径，掌握现代 DevOps 实践和工具。本路线图提供了一种系统化的方式来理解持续集成、交付和部署。其中包含的 DevOps 实战课程和真实世界练习有助于培养专业的软件开发和 IT 运维实践技能。
 
 ## 练习
 
@@ -45,7 +45,6 @@ DevOps 正在彻底改变软件开发和 IT 运营模式。这个技能树为掌
 |     29 | [随机密码生成器开发](https://labex.io/zh/courses/project-password-generator)                                                           | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-password-generator)                                |
 |     30 | [恢复网站访问权限](https://labex.io/zh/courses/project-restore-access-to-website)                                                      | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-restore-access-to-website)                         |
 |     31 | [搜索特定文件](https://labex.io/zh/courses/project-searching-for-specific-files)                                                       | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-searching-for-specific-files)                      |
-|     32 | [Samba File Sharing on Linux](https://labex.io/zh/courses/project-samba-file-sharing-on-linux)                                         | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-samba-file-sharing-on-linux)                       |
 
 ## 更多
 
