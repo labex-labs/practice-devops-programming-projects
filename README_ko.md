@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-DevOps 는 소프트웨어 개발과 IT 운영에 혁신을 가져오고 있습니다. 이 스킬 트리는 DevOps 실무와 도구를 마스터하기 위한 체계적인 학습 경로를 제공합니다. 초보자도 쉽게 이해할 수 있도록 지속적인 통합, 전달, 배포에 대한 체계적인 방법을 제시합니다. 실습 강좌와 실제 환경과 유사한 연습을 통해 전문적인 환경에서 필요한 실무 능력을 개발할 수 있습니다.
+초보자를 위해 설계된 체계적인 학습 경로를 통해 최신 DevOps 사례 및 도구를 마스터하세요. 이 로드맵은 지속적인 통합, 제공 및 배포를 이해하는 체계적인 방법을 제공합니다. 포함된 실습 DevOps 과정과 실제 연습은 전문 소프트웨어 개발 및 IT 운영을 위한 실용적인 기술을 개발하는 데 도움이 됩니다.
 
 ## 연습
 
@@ -45,7 +45,6 @@ DevOps 는 소프트웨어 개발과 IT 운영에 혁신을 가져오고 있습�
 |       29 | [무작위 비밀번호 생성기 개발](https://labex.io/ko/courses/project-password-generator)                                                      | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-password-generator)                                |
 |       30 | [웹사이트 접근 복구](https://labex.io/ko/courses/project-restore-access-to-website)                                                        | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-restore-access-to-website)                         |
 |       31 | [특정 파일 검색](https://labex.io/ko/courses/project-searching-for-specific-files)                                                         | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-searching-for-specific-files)                      |
-|       32 | [Samba File Sharing on Linux](https://labex.io/ko/courses/project-samba-file-sharing-on-linux)                                             | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-samba-file-sharing-on-linux)                       |
 
 ## 더 보기
 
