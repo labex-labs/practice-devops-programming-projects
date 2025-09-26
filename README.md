@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-DevOps is revolutionizing software development and IT operations. This Skill Tree offers a structured learning path for mastering DevOps practices and tools. It's perfect for beginners, providing a systematic way to understand continuous integration, delivery, and deployment. Hands - on courses and real - world playground exercises help you develop practical skills for professional settings.
+Learn DevOps with a structured learning path designed for beginners to master modern practices and tools. This roadmap provides a systematic way to understand continuous integration, delivery, and deployment. The included hands-on DevOps courses and real-world exercises help develop practical skills for professional software development and IT operations.
 
 ## Exercises
 
@@ -45,7 +45,6 @@ DevOps is revolutionizing software development and IT operations. This Skill Tre
 |      29 | [Random Password Generator Development](https://labex.io/courses/project-password-generator)                                            | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-password-generator)                                |
 |      30 | [Restore Access to Website](https://labex.io/courses/project-restore-access-to-website)                                                 | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-restore-access-to-website)                         |
 |      31 | [Searching for Specific Files](https://labex.io/courses/project-searching-for-specific-files)                                           | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-searching-for-specific-files)                      |
-|      32 | [Samba File Sharing on Linux](https://labex.io/courses/project-samba-file-sharing-on-linux)                                             | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-samba-file-sharing-on-linux)                       |
 
 ## More
 
