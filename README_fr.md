@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
 </div>
 
-Le DevOps révolutionne le développement logiciel et les opérations informatiques. Cet arbre de compétences propose un parcours d'apprentissage structuré pour maîtriser les pratiques et outils DevOps. Il est idéal pour les débutants, offrant une méthode systématique pour comprendre l'intégration continue, la livraison et le déploiement. Des cours pratiques et des exercices en environnement réel vous aident à développer des compétences concrètes pour des contextes professionnels.
+Apprenez le DevOps avec un parcours d'apprentissage structuré conçu pour les débutants afin de maîtriser les pratiques et les outils modernes. Cette feuille de route offre un moyen systématique de comprendre l'intégration continue, la livraison continue et le déploiement continu. Les cours DevOps pratiques inclus et les exercices concrets aident à développer des compétences pratiques pour le développement logiciel professionnel et les opérations informatiques.
 
 ## Exercices
 
@@ -45,7 +45,6 @@ Le DevOps révolutionne le développement logiciel et les opérations informatiq
 |      29 | [Développement d'un générateur de mots de passe aléatoires](https://labex.io/fr/courses/project-password-generator)                                  | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-password-generator)                                |
 |      30 | [Rétablir l'accès à un site web](https://labex.io/fr/courses/project-restore-access-to-website)                                                      | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-restore-access-to-website)                         |
 |      31 | [Recherche de fichiers spécifiques](https://labex.io/fr/courses/project-searching-for-specific-files)                                                | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-searching-for-specific-files)                      |
-|      32 | [Samba File Sharing on Linux](https://labex.io/fr/courses/project-samba-file-sharing-on-linux)                                                       | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-samba-file-sharing-on-linux)                       |
 
 ## Plus
 
